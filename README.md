@@ -1,7 +1,7 @@
 # YOLOv5-models-comparison
 
 Training different YOLOv5 models on 'Face Mask Detection' dataset for comparison. 
-![Paper](https://www.researchgate.net/publication/363824867_A_comparative_study_of_YOLOv5_models_performance_for_image_localization_and_classification)
+[Paper](https://www.researchgate.net/publication/363824867_A_comparative_study_of_YOLOv5_models_performance_for_image_localization_and_classification)
 
 
 #### Pretrained weights
